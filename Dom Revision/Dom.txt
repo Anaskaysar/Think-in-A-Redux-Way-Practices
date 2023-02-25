@@ -1,0 +1,9 @@
+What is Dom?
+-> Dom is a Document object model & Programming Interface for HTML that defines HTML objects, properties, methods and events to get,change,add or delete HTML events
+
+What is Dom Methods?
+-> are actions that you can perform
+
+What is Dom properties?
+-> values that you can change or set.
+
